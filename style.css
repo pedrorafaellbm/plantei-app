@@ -1,0 +1,16 @@
+.nav-link {
+color: white;
+}
+
+.banner-container {
+    width: 100vw;
+    height: 200px;
+    overflow: hidden;
+}
+
+#banner-header{ 
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+}
